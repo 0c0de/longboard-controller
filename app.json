@@ -1,0 +1,7 @@
+{
+  "name": "LongboardController",
+  "displayName": "LongboardController",
+  "expo":{
+    "sdkVersion": "26.0.0"
+  }
+}
